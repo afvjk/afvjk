@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @afvjk
 - 👀 I’m interested in electronics and programing
 - 🌱 I’m currently learning programing and pcb design
-- 💞️ I’m looking to collaborate on different electronic projects
 - 📫 you can reach out to me via gmail: andrekulovic123@gmail.com
 
 <!---
